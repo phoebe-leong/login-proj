@@ -1,2 +1,3 @@
 # login-req
- A site/landing page for my c++ login project
+
+Landing page for [phoebe-leong/login](https://github.com/phoebe-leong/login)
